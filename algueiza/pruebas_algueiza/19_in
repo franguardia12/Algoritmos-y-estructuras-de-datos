@@ -1,0 +1,15 @@
+agregar_archivo vuelos-algueiza-parte-03.csv
+siguiente_vuelo LAX MIA 2018-10-28T15:02:01
+siguiente_vuelo LAX MIA 2018-10-30T15:02:01
+siguiente_vuelo LAX MIA 2019-10-30T15:00:01
+siguiente_vuelo LAS IAH 2018-07-14T23:12:02
+siguiente_vuelo LAS IAH 2018-10-14T23:12:02
+agregar_archivo vuelos-algueiza-parte-06.csv
+siguiente_vuelo EZE WAW 2022-01-12T12:20:00
+siguiente_vuelo EZE WAW 2022-11-12T12:20:00
+siguiente_vuelo EZE WAW 2019-12-11T12:00:00
+siguiente_vuelo EZE WAW 2019-12-12T15:00:00
+siguiente_vuelo EZE WAW 2019-11-01T15:00:00
+siguiente_vuelo EZE WAW 2019-10-10T00:00:00
+borrar 2019-10-10T00:00:00 2019-10-20T00:00:00
+siguiente_vuelo EZE WAW 2019-10-10T00:00:00

@@ -1,0 +1,22 @@
+agregar_archivo vuelos-algueiza-parte-01.csv
+borrar 2018-04-01T00:00:00 2018-09-01T00:00:00
+ver_tablero 100 asc 2017-12-31T23:59:59 2019-01-01T00:00:00
+agregar_archivo vuelos-algueiza-parte-02.csv
+borrar 2018-01-01T00:00:00 2018-10-01T00:00:00
+ver_tablero 100 asc 2017-12-31T23:59:59 2019-01-01T00:00:00
+agregar_archivo vuelos-algueiza-parte-03.csv
+borrar 2018-01-02T00:00:00 2018-12-20T00:00:00
+ver_tablero 100 asc 2017-12-31T23:59:59 2019-01-01T00:00:00
+info_vuelo 1434
+agregar_archivo vuelos-algueiza-parte-04.csv
+info_vuelo 1434
+ver_tablero 100 asc 2018-01-01T00:00:00 2018-01-10T00:00:00
+borrar 2018-04-10T00:00:00 2018-09-01T00:00:00
+borrar 2018-10-01T00:00:00 2019-01-01T00:00:00
+ver_tablero 100 asc 2017-12-31T23:59:59 2019-01-01T00:00:00
+agregar_archivo vuelos-algueiza-parte-05.csv
+ver_tablero 100 asc 2017-12-31T23:59:59 2019-01-01T00:00:00
+borrar 2018-01-01T00:00:00 2018-01-31T00:00:00
+borrar 2018-02-10T00:00:00 2018-08-26T00:00:00
+borrar 2018-09-01T00:00:00 2019-01-01T00:00:00
+ver_tablero 100 asc 2017-12-31T23:59:59 2019-01-01T00:00:00

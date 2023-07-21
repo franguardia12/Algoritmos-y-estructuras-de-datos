@@ -1,0 +1,8 @@
+agregar_archivo vuelos-algueiza-parte-01.csv
+info_vuelo 5243
+agregar_archivo vuelos-algueiza-parte-02.csv
+info_vuelo 5243
+ver_tablero 3 desc 2018-07-10T00:01:00 2018-08-07T18:10:12
+prioridad_vuelos 10
+borrar 2018-06-01T12:40:00 2018-07-02T09:02:35
+prioridad_vuelos 10
