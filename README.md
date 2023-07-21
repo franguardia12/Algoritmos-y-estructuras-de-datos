@@ -9,6 +9,7 @@ Trabajos realizados en la materia algoritmos y programación 2 de la facultad de
 
 ## Trabajos grupales
 _(trabajos realizados en conjunto con Mateo Requejo)_
+
 -[Lista](https://algoritmos-rw.github.io/algo2/tps/lista/) : implementación del TDA lista. Al igual que para la cola se optó por hacerlo sobre una estructura enlazada, también se introduce el concepto de iterador que se realizaría para algunos TDA's siguientes.
 -[TP1](https://algoritmos-rw.github.io/algo2/tps/2023_1/tp1/) : primer trabajo práctico de aplicación de lo que se vio hasta ese momento. Básicamente teníamos que modelar un sistema de gestión de votos donde ya nos daban el diseño y nuestra tarea era completarlo (pudiendo agregar más cosas, lo cual terminamos haciendo).
 -[Hash](https://algoritmos-rw.github.io/algo2/tps/hash/) : implementación del TDA diccionario sobre una tabla de hash. En este caso la consigna del trabajo era implementarlo sobre una tabla de hash por cuestiones de complejidad principalmente, quedaba a nuestra elección cómo tenía que ser esa tabla (nosotros decidimos que el hash sea abierto).
