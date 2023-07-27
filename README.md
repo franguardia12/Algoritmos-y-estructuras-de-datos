@@ -8,7 +8,7 @@ Trabajos realizados en la materia algoritmos y programación 2 de la facultad de
 - [Cola](https://algoritmos-rw.github.io/algo2/tps/cola/) : implementación del TDA cola. A diferencia de la pila aquí se optó por usar una estructura enlazada por las mismas razones que el arreglo para la pila.
 
 ## Trabajos grupales
-_(trabajos realizados en conjunto con MateoRequejo)_
+_(trabajos realizados en conjunto con @MateoRequejo)_
 
 - [Lista](https://algoritmos-rw.github.io/algo2/tps/lista/) : implementación del TDA lista. Al igual que para la cola se optó por hacerlo sobre una estructura enlazada, también se introduce el concepto de iterador que se realizaría para algunos TDA's siguientes.
 - [TP1](https://algoritmos-rw.github.io/algo2/tps/2023_1/tp1/) : primer trabajo práctico de aplicación de lo que se vio hasta ese momento. Básicamente teníamos que modelar un sistema de gestión de votos donde ya nos daban el diseño y nuestra tarea era completarlo (pudiendo agregar más cosas, lo cual terminamos haciendo).
