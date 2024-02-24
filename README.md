@@ -1,5 +1,5 @@
-# Algoritmos-y-programacion-II
-Trabajos realizados en la materia algoritmos y programación 2 de la facultad de ingeniería (UBA).
+# Algoritmos-y-estructuras-de-datos
+Trabajos realizados en la materia algoritmos y estructuras de datos (ex algoritmos y programación 2) de la facultad de ingeniería (UBA).
 
 ## Trabajos individuales
 - [TP0](https://algoritmos-rw.github.io/algo2/tps/tp0/) : trabajo práctico introductorio para familiarizarnos con el lenguaje de programación que se usaba en la cátedra(Go) ya que en la materia anterior solo se ve Python o C. También para acostumbrarnos a usar algunos comandos que serían necesarios en trabajos posteriores.
